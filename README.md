@@ -1,6 +1,6 @@
 # get-min
 
-A javascript isNumber that behaves the way you would expect.
+Get the minimum of two numbers that works the way you would expect.
 
 It takes two numbers and returns the lesser of the two. Thats it.
 
