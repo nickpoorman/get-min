@@ -1,0 +1,26 @@
+{
+  "name": "get-min",
+  "version": "1.0.0",
+  "description": "Get the minimum of two numbers that works the way you would expect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickpoorman/get-min.git"
+  },
+  "author": "Nick Poorman",
+  "bugs": {
+    "url": "https://github.com/nickpoorman/get-min/issues"
+  },
+  "homepage": "https://github.com/nickpoorman/get-min",
+  "dependencies": {
+    "is-finite-number": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
