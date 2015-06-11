@@ -2,7 +2,7 @@
 
 Get the minimum of two numbers that works the way you would expect.
 
-It takes two numbers and returns the lesser of the two. Thats it.
+It takes two anything and returns the lesser number of the two. Thats it.
 
 ## example
 
