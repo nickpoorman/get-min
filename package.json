@@ -1,6 +1,6 @@
 {
   "name": "get-min",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the minimum of two numbers that works the way you would expect.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   "devDependencies": {
     "mocha": "^2.2.5",
     "should": "^6.0.3"
-  }
+  },
+  "license": "MIT"
 }
